@@ -5,20 +5,20 @@ Il s'agit d'un **classique projet de classification supervisée**, très utilis�
 
 ---
 
-## 🎯 Objectif
+##  Objectif
 
 Utiliser les données disponibles (sexe, âge, classe, famille, tarif, etc.) pour prédire si un passager a survécu ou non au naufrage du Titanic.
 
 ---
 
-## 📊 Score obtenu
+##  Score obtenu
 
 **✅ Score public Kaggle : `0.78468`**  
-Ce score dépasse la baseline (`gender_submission.csv` ≈ 0.765), ce qui montre la pertinence du traitement des données et du modèle utilisé.
+Ce score dépasse la baseline (`gender_submission.csv` ≈ 0.765).
 
 ---
 
-## 🧪 Modèle utilisé
+##  Modèle utilisé
 
 - **Random Forest Classifier** (`sklearn`)
 - Avec :
@@ -42,7 +42,7 @@ Voici les principales features créées pour améliorer le modèle :
 
 ---
 
-## 🧼 Nettoyage & Préparation
+##  Nettoyage & Préparation
 
 - Suppression des colonnes : `Cabin`, `Ticket`, `Name`
 - Imputation des valeurs manquantes (`Age`, `Embarked`, `Fare`)
@@ -60,7 +60,7 @@ Voici les principales features créées pour améliorer le modèle :
 
 ---
 
-## 🚀 Idées d'amélioration
+## Idées d'amélioration
 
 - Utiliser **XGBoost** ou **LightGBM**
 - Créer des variables comme `Deck`, `FarePerPerson`, `AgeGroup`
@@ -69,10 +69,9 @@ Voici les principales features créées pour améliorer le modèle :
 
 ---
 
-## 📌 A propos
+##  A propos
 
-Projet réalisé par **Moe Gueye** dans le cadre de son apprentissage en Data Science.  
-👉 Score sur Kaggle : [https://www.kaggle.com/competitions/titanic](https://www.kaggle.com/competitions/titanic)
+Projet réalisé dans le cadre de son apprentissage en Data Science.  
 
 ---
 
