@@ -13,7 +13,7 @@ Utiliser les données disponibles (sexe, âge, classe, famille, tarif, etc.) pou
 
 ##  Score obtenu
 
-**✅ Score public Kaggle : `0.78468`**  
+** Score public Kaggle : `0.78468`**  
 Ce score dépasse la baseline (`gender_submission.csv` ≈ 0.765).
 
 ---
@@ -28,7 +28,7 @@ Ce score dépasse la baseline (`gender_submission.csv` ≈ 0.765).
 
 ---
 
-## 🔧 Feature Engineering
+##  Feature Engineering
 
 Voici les principales features créées pour améliorer le modèle :
 
