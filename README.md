@@ -50,7 +50,7 @@ Voici les principales features créées pour améliorer le modèle :
 
 ---
 
-## 📁 Contenu du dépôt
+##  Contenu du dépôt
 
 | Fichier                       | Rôle                                    |
 |------------------------------|-----------------------------------------|
@@ -60,22 +60,13 @@ Voici les principales features créées pour améliorer le modèle :
 
 ---
 
-## Idées d'amélioration
-
-- Utiliser **XGBoost** ou **LightGBM**
-- Créer des variables comme `Deck`, `FarePerPerson`, `AgeGroup`
-- Tuning d'hyperparamètres avec `GridSearchCV`
-- Validation croisée `StratifiedKFold` au lieu de simple split
-
----
-
 ##  A propos
 
 Projet réalisé dans le cadre de son apprentissage en Data Science.  
 
 ---
 
-## 🧠 Compétences mobilisées
+## Compétences mobilisées
 
 - Pandas, Numpy, Matplotlib, Seaborn
 - Feature engineering, nettoyage de données
